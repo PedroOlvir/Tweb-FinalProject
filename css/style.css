@@ -70,6 +70,9 @@ header{
 .sec1-text h1, .sec1-text p{
     margin: 1% 0%;
 }
+.sec1-links{
+    width: 100%;
+}
 .sec1-links a{
     text-decoration: none;
     background-color: #333;;
